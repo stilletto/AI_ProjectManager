@@ -1,0 +1,7 @@
+py-cord[voice]
+asyncio
+pynacl
+ffmpeg
+openai
+tiktoken
+openai-whisper
